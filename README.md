@@ -36,7 +36,7 @@ safety reminder — you are responsible for how you use it.
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/nmap-rustscan-compare.git
+git clone https://github.com/shivkumaarr/nmap-rustscan-compare.git
 cd nmap-rustscan-compare
 pip install -r requirements.txt
 ```
@@ -105,6 +105,4 @@ Pull requests are welcome — ideas for future improvements:
 - UDP scan comparison
 - Support for scanning multiple targets and averaging results
 
-## License
 
-MIT License — free to use, modify, and distribute.
